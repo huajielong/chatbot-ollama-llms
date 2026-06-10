@@ -21,6 +21,8 @@
   <a href="#-faq">❓ FAQ</a>
 </p>
 
+> [中文说明](README.zh.md)
+
 ---
 
 ## 🤔 Want to build a private AI chat system?
@@ -192,5 +194,3 @@ MIT © [huajielong](https://github.com/huajielong)
 <p align="center">
   ⭐ If this project helps you, please give it a Star!
 </p>
-
-> [中文说明](README.zh.md)
